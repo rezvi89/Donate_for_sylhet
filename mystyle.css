@@ -1,0 +1,30 @@
+body {
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    margin: 0;
+}
+
+.bg {
+    background-image: url(images/donation5.jpg);
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+}
+
+.donate {
+    color: blue;
+    text-align: center;
+}
+
+#block {
+    background-color: rgb(215, 195, 169);
+}
+
+.note {
+    text-align: center;
+    background-color: black;
+    color: azure;
+}
+
+.foot {
+    font-size: 25px;
+}
