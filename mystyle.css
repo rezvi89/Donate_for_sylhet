@@ -1,6 +1,26 @@
 body {
     font-family: 'Edu NSW ACT Foundation', cursive;
     margin: 0;
+    padding: 10px;
+}
+
+section {
+    display: flex;
+    text-align: center;
+    padding: 10px;
+}
+
+.half-width {
+    width: 50%;
+
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.box img {
+    width: 100%;
 }
 
 .bg {
@@ -8,11 +28,24 @@ body {
     background-repeat: no-repeat;
     color: white;
     text-align: center;
+    width: 100%;
+    padding: 100px 20px;
+}
+
+.Link-Button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, brown);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
 }
 
 .donate {
     color: blue;
     text-align: center;
+    width: 100%;
+    word-wrap: break-word;
 }
 
 #block {
